@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CardViewOne</string>
+    <string name="title">Mi Card View Genial</string>
+    <string name="secondary_text">Un subtitulo para tu app</string>
+    <string name="support_text">
+        Las frutas alimentos deliciosos y nutritivos. Son fuente de vitaminas,
+        minerales y fibra. Manzanas, platanos, fresas y naranjas son algunas...
+    </string>
+    <string name="action_1">Anterior</string>
+    <string name="action_2">Siguiente</string>
+    <string name="title_app">Mi titulo de la app</string>
+    <string name="content_descriptionn_media">La descripcion del contenido multimedia</string>
+</resources>
